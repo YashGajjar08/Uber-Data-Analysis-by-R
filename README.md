@@ -18,7 +18,7 @@ if you're curious about how data analysis is done at Uber to ensure positive exp
   
 - Dataset: [Kaggle](https://www.kaggle.com/datasets/amirmotefaker/uber-dataset-from-april-to-september-2014)
 
-## The essential packages that we will use in this Uber data analysis project:
+### The essential packages that we will use in this Uber data analysis project:
 
 #### ggplot2
 This is the backbone of this project. ggplot2 is the most popular data visualization library that is most widely used for creating aesthetic visualization plots.
