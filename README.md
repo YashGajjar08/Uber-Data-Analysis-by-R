@@ -20,23 +20,23 @@ if you're curious about how data analysis is done at Uber to ensure positive exp
 
 ## The essential packages that we will use in this Uber data analysis project:
 
->### ggplot2
+># ggplot2
 >This is the backbone of this project. ggplot2 is the most popular data visualization library that is most widely used for creating aesthetic visualization plots.
 
->### ggthemes
+># ggthemes
 >This is more of an add-on to our main ggplot2 library. With this, we can create better create extra themes and scales with the mainstream ggplot2 package.
 
->### lubricate
+># lubricate
 >Our dataset involves various time frames. In order to understand our data in separate time categories, we will make use of the lubridate package.
 
->### dplyr
+># dplyr
 >This package is the lingua franca of data manipulation in R.
 
->### tidyr
+># tidyr
 >This package will help you to tidy your data. The basic principle of tidyr is to tidy the columns where each variable is present in a column, each observation is represented by a row and each value depicts a cell.
 
->### DT
+># DT
 >With the help of this package, we will be able to interface with the JavaScript Library called – Datatables.
 
->### scales
+># scales
 >With the help of graphical scales, we can automatically map the data to the correct scales with well-placed axes and legends.
