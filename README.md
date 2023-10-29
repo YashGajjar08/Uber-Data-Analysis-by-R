@@ -20,7 +20,7 @@ if you're curious about how data analysis is done at Uber to ensure positive exp
 
 ## The essential packages that we will use in this Uber data analysis project:
 
-># ggplot2
+>##### ggplot2
 >This is the backbone of this project. ggplot2 is the most popular data visualization library that is most widely used for creating aesthetic visualization plots.
 
 ># ggthemes
